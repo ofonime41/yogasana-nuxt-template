@@ -1,6 +1,8 @@
 # yogasana
 
-## Build Setup
+###This is a bootstrap template from [link](free-css.com/free-css-templates) I converted to nuxt template
+
+## Build Setup 
 
 ```bash
 # install dependencies
